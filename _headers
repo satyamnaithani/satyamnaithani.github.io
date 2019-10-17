@@ -1,0 +1,21 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/satyamnaithani.github.io/offline-plugin-app-shell-fallback/
+  Link: </satyamnaithani.github.io/webpack-runtime-6da9c9ae44532b349ed8.js>; rel=preload; as=script
+  Link: </satyamnaithani.github.io/app-e885758363fb7d918120.js>; rel=preload; as=script
+  Link: </satyamnaithani.github.io/component---node-modules-gatsby-plugin-offline-app-shell-js-cfbad065658beecf4111.js>; rel=preload; as=script
+/satyamnaithani.github.io/
+  Link: </satyamnaithani.github.io/webpack-runtime-6da9c9ae44532b349ed8.js>; rel=preload; as=script
+  Link: </satyamnaithani.github.io/app-e885758363fb7d918120.js>; rel=preload; as=script
+  Link: </satyamnaithani.github.io/styles-4f078a6e0374770d09f3.js>; rel=preload; as=script
+  Link: </satyamnaithani.github.io/6-f8114540c661830c4d91.js>; rel=preload; as=script
+  Link: </satyamnaithani.github.io/component---src-pages-index-jsx-1754df58796e3c42dee2.js>; rel=preload; as=script
